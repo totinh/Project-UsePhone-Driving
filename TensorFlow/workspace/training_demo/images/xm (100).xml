@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>xm (100).jpg</filename>
+	<path>D:\ctu\nl\images\xm (100).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>su dung dien thoai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>182</ymin>
+			<xmax>317</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dieu khien xe may</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>183</ymin>
+			<xmax>345</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

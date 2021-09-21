@@ -1,0 +1,8 @@
+item {
+	id: 1
+	name: 'su dung dien thoai'
+}
+item {
+	id: 2
+	name: 'dieu khien xe may'
+}
